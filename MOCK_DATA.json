@@ -1,5 +1,5 @@
 {
-nodes: 
+"nodes": 
 	[{
   "name": "Shuffletag",
   "bsn": 563371,
@@ -201,7 +201,7 @@ nodes:
   "appointed": "2/22/2012",
   "type": "Person"
 }],
-links: [{
+"links": [{
   "source": 3,
   "target": 29,
   "type": "Director",
