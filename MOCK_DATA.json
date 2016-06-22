@@ -1,20 +1,406 @@
-[{"name":"Layo","status":"Registered","company number":603161,"directors":[{"name":"Rachel Peterson"},{"name":"Roy Weaver"}],"shareholders":[{"name":"Henry Grant","percentage":"15.8"},{"name":"Shawn Chapman","percentage":"19.6"},{"name":"Jacqueline Cole","percentage":"23.3"},{"name":"Amanda Gordon","percentage":"20.0"},{"name":"Craig Marshall","percentage":"25.7"},{"name":"Marilyn Myers","percentage":"47.8"},{"name":"Jessica Carter","percentage":"35.7"},{"name":"Joan Stevens","percentage":"39.4"},{"name":"Diana Lewis","percentage":"10.4"},{"name":"Jeremy Vasquez","percentage":"39.9"}]},
-{"name":"Avaveo","status":"Bankrupt","company number":178356,"directors":[{"name":"Christina Grant"},{"name":"Kevin Perez"}],"shareholders":[{"name":"Annie Moore","percentage":"39.8"},{"name":"Evelyn Barnes","percentage":"48.6"},{"name":"Russell Kennedy","percentage":"14.5"},{"name":"Irene Gordon","percentage":"42.6"},{"name":"Joe Jackson","percentage":"7.1"},{"name":"Phyllis Collins","percentage":"25.2"},{"name":"Louise White","percentage":"20.3"},{"name":"Jose Perez","percentage":"13.9"}]},
-{"name":"Zoomlounge","status":"Registered","company number":745911,"directors":[{"name":"Jeffrey Hill"},{"name":"Ashley West"}],"shareholders":[{"name":"Billy Fernandez","percentage":"31.0"},{"name":"Linda Butler","percentage":"22.4"},{"name":"Jimmy Rice","percentage":"49.6"},{"name":"Stephen Bradley","percentage":"43.3"},{"name":"Tina Ray","percentage":"5.0"},{"name":"Bobby Tucker","percentage":"5.0"}]},
-{"name":"Photobug","status":"Registered","company number":606624,"directors":[{"name":"Terry Banks"},{"name":"Carl Cox"},{"name":"Frank Collins"},{"name":"Emily Freeman"},{"name":"Kimberly Ortiz"}],"shareholders":[{"name":"Deborah Hernandez","percentage":"22.8"},{"name":"Raymond Davis","percentage":"11.2"}]},
-{"name":"Devbug","status":"Bankrupt","company number":731932,"directors":[{"name":"Jesse Murray"},{"name":"Laura Collins"},{"name":"Joan Murphy"},{"name":"Harold James"}],"shareholders":[{"name":"Bonnie Porter","percentage":"18.6"},{"name":"Peter Day","percentage":"44.7"},{"name":"Denise Ramos","percentage":"42.5"},{"name":"Brandon Richardson","percentage":"20.0"}]},
-{"name":"Skajo","status":"Bankrupt","company number":360420,"directors":[{"name":"Evelyn Elliott"},{"name":"Douglas Butler"}],"shareholders":[{"name":"Harold Wallace","percentage":"27.3"},{"name":"Justin Murray","percentage":"5.6"},{"name":"Jonathan Cox","percentage":"15.3"},{"name":"Edward Gonzalez","percentage":"24.6"},{"name":"Anthony Tucker","percentage":"43.0"},{"name":"Diana Grant","percentage":"35.8"},{"name":"Diane Morrison","percentage":"23.6"},{"name":"Michelle Bennett","percentage":"18.2"},{"name":"Willie Gonzales","percentage":"1.6"},{"name":"Bonnie Bailey","percentage":"40.1"}]},
-{"name":"Wordtune","status":"Unregistered","company number":514226,"directors":[{"name":"Judith Burton"},{"name":"Alice Allen"},{"name":"Marilyn Morrison"}],"shareholders":[{"name":"Jessica Spencer","percentage":"12.6"},{"name":"Gerald Gray","percentage":"21.1"},{"name":"Joseph Fisher","percentage":"16.6"},{"name":"Ruth Sullivan","percentage":"26.0"},{"name":"Raymond Diaz","percentage":"40.8"},{"name":"Nicole Hayes","percentage":"47.6"}]},
-{"name":"Brightdog","status":"Unregistered","company number":572169,"directors":[{"name":"Howard Medina"},{"name":"Peter Kelly"},{"name":"Russell Mendoza"},{"name":"Doris Jacobs"},{"name":"Mark Ramos"}],"shareholders":[{"name":"Joan Lane","percentage":"16.7"},{"name":"Jason Hunt","percentage":"29.0"},{"name":"Melissa Jacobs","percentage":"18.1"},{"name":"Denise Torres","percentage":"3.8"},{"name":"Michael Stewart","percentage":"47.4"},{"name":"Steve Pierce","percentage":"41.3"},{"name":"Walter Alvarez","percentage":"15.5"},{"name":"Carlos Torres","percentage":"29.9"}]},
-{"name":"Browsezoom","status":"Unregistered","company number":802712,"directors":[{"name":"Lillian Stewart"}],"shareholders":[{"name":"Bruce Wallace","percentage":"20.7"},{"name":"Elizabeth Myers","percentage":"13.1"},{"name":"Joan Sims","percentage":"26.5"},{"name":"Nancy Stanley","percentage":"44.1"},{"name":"Donna Johnson","percentage":"40.8"},{"name":"Laura Alexander","percentage":"8.6"},{"name":"Linda Knight","percentage":"46.9"},{"name":"Ruth Bowman","percentage":"8.9"},{"name":"Deborah Brown","percentage":"34.1"}]},
-{"name":"Voolith","status":"Registered","company number":854385,"directors":[{"name":"Irene Kelly"},{"name":"Rebecca Hicks"},{"name":"Douglas Morris"},{"name":"Ashley Reid"}],"shareholders":[{"name":"Bonnie Allen","percentage":"21.8"}]},
-{"name":"Livepath","status":"Registered","company number":742079,"directors":[{"name":"Daniel Oliver"},{"name":"Wayne Fisher"},{"name":"Antonio Ryan"}],"shareholders":[{"name":"Brian Young","percentage":"4.7"},{"name":"Jonathan Harvey","percentage":"44.0"},{"name":"Ralph Ryan","percentage":"40.2"}]},
-{"name":"Oyoloo","status":"Bankrupt","company number":319203,"directors":[{"name":"Jennifer Rose"},{"name":"Kevin Riley"},{"name":"Stephen Thomas"},{"name":"Bobby Wilson"}],"shareholders":[{"name":"Linda Lopez","percentage":"26.1"}]},
-{"name":"Yamia","status":"Bankrupt","company number":703908,"directors":[{"name":"Eric Reed"},{"name":"Willie Myers"},{"name":"Daniel White"}],"shareholders":[{"name":"Samuel Long","percentage":"35.8"},{"name":"Eric Watson","percentage":"29.7"},{"name":"Edward Snyder","percentage":"9.1"},{"name":"Larry James","percentage":"1.6"},{"name":"Matthew Morales","percentage":"44.5"},{"name":"Roger Morrison","percentage":"26.4"},{"name":"Sandra Banks","percentage":"36.2"},{"name":"Andrea Duncan","percentage":"1.0"}]},
-{"name":"Quimm","status":"Registered","company number":167213,"directors":[{"name":"Margaret Sanders"},{"name":"Christine Ryan"}],"shareholders":[{"name":"Todd Jones","percentage":"45.4"}]},
-{"name":"Leexo","status":"Bankrupt","company number":798925,"directors":[{"name":"Barbara Ryan"},{"name":"Amanda Lawson"},{"name":"Teresa Parker"},{"name":"Susan Arnold"},{"name":"Rose Richards"}],"shareholders":[{"name":"Samuel Meyer","percentage":"40.5"},{"name":"Mildred Turner","percentage":"37.2"},{"name":"Steven Ross","percentage":"3.2"}]},
-{"name":"Skibox","status":"Unregistered","company number":334976,"directors":[{"name":"Barbara Morris"},{"name":"Gloria Romero"}],"shareholders":[{"name":"Chris Sanders","percentage":"9.2"},{"name":"Anne Henderson","percentage":"27.6"},{"name":"Marilyn Moreno","percentage":"43.6"},{"name":"Clarence Robertson","percentage":"17.6"},{"name":"Michael Schmidt","percentage":"24.3"},{"name":"Alice Gomez","percentage":"47.2"},{"name":"Kimberly Holmes","percentage":"1.2"},{"name":"Earl Reid","percentage":"33.1"},{"name":"Kenneth Ramos","percentage":"27.7"},{"name":"Virginia Jenkins","percentage":"6.6"}]},
-{"name":"Agivu","status":"Unregistered","company number":439418,"directors":[{"name":"Tina Andrews"},{"name":"Kelly Gonzalez"},{"name":"Randy Parker"}],"shareholders":[{"name":"Catherine Reed","percentage":"26.8"},{"name":"Christina Robertson","percentage":"43.8"},{"name":"Thomas Elliott","percentage":"27.3"},{"name":"Linda Chavez","percentage":"16.1"}]},
-{"name":"Jayo","status":"Unregistered","company number":930511,"directors":[{"name":"Diana Alexander"},{"name":"Randy Chavez"},{"name":"Amanda King"},{"name":"Jacqueline Johnston"},{"name":"Melissa Ray"}],"shareholders":[{"name":"Emily Fowler","percentage":"9.6"},{"name":"Denise Thomas","percentage":"20.5"},{"name":"Martha Harrison","percentage":"19.7"},{"name":"Shawn Lopez","percentage":"34.6"},{"name":"Earl Cruz","percentage":"48.6"},{"name":"Tammy Palmer","percentage":"16.2"},{"name":"Mildred Adams","percentage":"22.2"},{"name":"Wanda Schmidt","percentage":"13.4"},{"name":"Randy Medina","percentage":"22.3"},{"name":"Paula Moreno","percentage":"45.0"}]},
-{"name":"Oyonder","status":"Unregistered","company number":482663,"directors":[{"name":"Lawrence Dean"}],"shareholders":[{"name":"Justin Andrews","percentage":"3.7"},{"name":"Johnny Henderson","percentage":"30.9"},{"name":"Willie Duncan","percentage":"18.2"},{"name":"Douglas Stewart","percentage":"12.5"},{"name":"Shirley Peters","percentage":"15.2"}]},
-{"name":"Digitube","status":"Unregistered","company number":989741,"directors":[{"name":"Edward Allen"},{"name":"Emily Flores"},{"name":"Lawrence Rodriguez"},{"name":"Thomas Dean"}],"shareholders":[{"name":"Deborah Matthews","percentage":"0.1"},{"name":"Jeffrey Welch","percentage":"40.9"},{"name":"Dennis Morris","percentage":"34.0"},{"name":"Andrew Carroll","percentage":"44.8"},{"name":"Angela Fox","percentage":"41.6"},{"name":"Rachel Ramos","percentage":"17.7"},{"name":"Laura Henderson","percentage":"11.4"}]}]
+{
+nodes: 
+	[{
+  "name": "Shuffletag",
+  "bsn": 563371,
+  "status": "Unregistered",
+  "type": "Company"
+}, {
+  "name": "Gigazoom",
+  "bsn": 637913,
+  "status": "Registered",
+  "type": "Company"
+}, {
+  "name": "Gabtune",
+  "bsn": 729475,
+  "status": "Registered",
+  "type": "Company"
+}, {
+  "name": "Devbug",
+  "bsn": 628672,
+  "status": "Bankrupt",
+  "type": "Company"
+}, {
+  "name": "Thoughtstorm",
+  "bsn": 149293,
+  "status": "Unregistered",
+  "type": "Company"
+}, {
+  "name": "Skinix",
+  "bsn": 233139,
+  "status": "Registered",
+  "type": "Company"
+}, {
+  "name": "Feedfire",
+  "bsn": 458886,
+  "status": "Bankrupt",
+  "type": "Company"
+}, {
+  "name": "Ntag",
+  "bsn": 338062,
+  "status": "Bankrupt",
+  "type": "Company"
+}, {
+  "name": "Pixonyx",
+  "bsn": 139610,
+  "status": "Registered",
+  "type": "Company"
+}, {
+  "name": "Lazz",
+  "bsn": 233967,
+  "status": "Unregistered",
+  "type": "Company"
+}, {
+  "name": "BlogXS",
+  "bsn": 759389,
+  "status": "Bankrupt",
+  "type": "Company"
+}, {
+  "name": "Zoonder",
+  "bsn": 888693,
+  "status": "Bankrupt",
+  "type": "Company"
+}, {
+  "name": "Miboo",
+  "bsn": 993267,
+  "status": "Unregistered",
+  "type": "Company"
+}, {
+  "name": "Divavu",
+  "bsn": 886935,
+  "status": "Bankrupt",
+  "type": "Company"
+}, {
+  "name": "Divape",
+  "bsn": 729110,
+  "status": "Bankrupt",
+  "type": "Company"
+}, {
+  "name": "Linktype",
+  "bsn": 243957,
+  "status": "Unregistered",
+  "type": "Company"
+}, {
+  "name": "Zava",
+  "bsn": 932597,
+  "status": "Registered",
+  "type": "Company"
+}, {
+  "name": "Eazzy",
+  "bsn": 184901,
+  "status": "Unregistered",
+  "type": "Company"
+}, {
+  "name": "Vimbo",
+  "bsn": 576409,
+  "status": "Registered",
+  "type": "Company"
+}, {
+  "name": "Rhycero",
+  "bsn": 894382,
+  "status": "Bankrupt",
+  "type": "Company"
+}, {
+  "name": "Nicole Brooks",
+  "address": "6 Lakeland Hill",
+  "appointed": "11/12/2012",
+  "type": "Person"
+}, {
+  "name": "Sara Morrison",
+  "address": "7 Atwood Parkway",
+  "appointed": "7/22/2011",
+  "type": "Person"
+}, {
+  "name": "Douglas Burton",
+  "address": "97 Macpherson Road",
+  "appointed": "3/4/2016",
+  "type": "Person"
+}, {
+  "name": "Gregory Gordon",
+  "address": "8 Carpenter Pass",
+  "appointed": "4/21/2014",
+  "type": "Person"
+}, {
+  "name": "Ryan Kim",
+  "address": "55 Coleman Place",
+  "appointed": "12/23/2012",
+  "type": "Person"
+}, {
+  "name": "Joe Peterson",
+  "address": "4 Prairie Rose Crossing",
+  "appointed": "8/16/2011",
+  "type": "Person"
+}, {
+  "name": "Fred Mills",
+  "address": "3 Pankratz Point",
+  "appointed": "11/29/2015",
+  "type": "Person"
+}, {
+  "name": "Louis Green",
+  "address": "20452 Merry Way",
+  "appointed": "9/21/2013",
+  "type": "Person"
+}, {
+  "name": "Gregory Howell",
+  "address": "687 Badeau Center",
+  "appointed": "10/11/2015",
+  "type": "Person"
+}, {
+  "name": "Steven Bryant",
+  "address": "03 Pankratz Pass",
+  "appointed": "10/29/2014",
+  "type": "Person"
+}, {
+  "name": "Debra Hall",
+  "address": "9 Emmet Point",
+  "appointed": "6/14/2015",
+  "type": "Person"
+}, {
+  "name": "Christopher Shaw",
+  "address": "0 Buell Center",
+  "appointed": "10/13/2014",
+  "type": "Person"
+}, {
+  "name": "Debra Reed",
+  "address": "28 Continental Drive",
+  "appointed": "7/31/2015",
+  "type": "Person"
+}, {
+  "name": "Janice Ward",
+  "address": "2 Kings Parkway",
+  "appointed": "10/18/2015",
+  "type": "Person"
+}, {
+  "name": "Roger Armstrong",
+  "address": "368 Declaration Hill",
+  "appointed": "8/17/2011",
+  "type": "Person"
+}, {
+  "name": "Johnny Ryan",
+  "address": "2 Hintze Park",
+  "appointed": "5/13/2013",
+  "type": "Person"
+}, {
+  "name": "Mary Dean",
+  "address": "687 Washington Place",
+  "appointed": "12/20/2015",
+  "type": "Person"
+}, {
+  "name": "Evelyn Morris",
+  "address": "3129 Helena Avenue",
+  "appointed": "10/6/2015",
+  "type": "Person"
+}, {
+  "name": "Jose Sims",
+  "address": "6193 Nevada Pass",
+  "appointed": "7/7/2013",
+  "type": "Person"
+}, {
+  "name": "Evelyn Jordan",
+  "address": "969 Kenwood Place",
+  "appointed": "2/22/2012",
+  "type": "Person"
+}],
+links: [{
+  "source": 3,
+  "target": 29,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 17,
+  "target": 26,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 9,
+  "target": 31,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 10,
+  "target": 26,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 4,
+  "target": 30,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 5,
+  "target": 20,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 19,
+  "target": 25,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 7,
+  "target": 34,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 0,
+  "target": 39,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 1,
+  "target": 34,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 10,
+  "target": 21,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 19,
+  "target": 32,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 5,
+  "target": 36,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 16,
+  "target": 31,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 3,
+  "target": 32,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 15,
+  "target": 29,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 15,
+  "target": 28,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 7,
+  "target": 34,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 18,
+  "target": 23,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 16,
+  "target": 37,
+  "type": "Director",
+  "value": 1
+}, {
+  "source": 5,
+  "target": 33,
+  "type": "Shareholder",
+  "value": 30.9
+}, {
+  "source": 14,
+  "target": 37,
+  "type": "Shareholder",
+  "value": 38.2
+}, {
+  "source": 19,
+  "target": 27,
+  "type": "Shareholder",
+  "value": 14.5
+}, {
+  "source": 10,
+  "target": 24,
+  "type": "Shareholder",
+  "value": 33.2
+}, {
+  "source": 0,
+  "target": 27,
+  "type": "Shareholder",
+  "value": 27.2
+}, {
+  "source": 6,
+  "target": 26,
+  "type": "Shareholder",
+  "value": 9.6
+}, {
+  "source": 9,
+  "target": 27,
+  "type": "Shareholder",
+  "value": 15.6
+}, {
+  "source": 17,
+  "target": 36,
+  "type": "Shareholder",
+  "value": 48.8
+}, {
+  "source": 19,
+  "target": 21,
+  "type": "Shareholder",
+  "value": 42.9
+}, {
+  "source": 11,
+  "target": 28,
+  "type": "Shareholder",
+  "value": 48.6
+}, {
+  "source": 2,
+  "target": 24,
+  "type": "Shareholder",
+  "value": 37.0
+}, {
+  "source": 3,
+  "target": 22,
+  "type": "Shareholder",
+  "value": 43.4
+}, {
+  "source": 9,
+  "target": 32,
+  "type": "Shareholder",
+  "value": 31.8
+}, {
+  "source": 0,
+  "target": 34,
+  "type": "Shareholder",
+  "value": 48.7
+}, {
+  "source": 14,
+  "target": 28,
+  "type": "Shareholder",
+  "value": 34.0
+}, {
+  "source": 16,
+  "target": 23,
+  "type": "Shareholder",
+  "value": 17.8
+}, {
+  "source": 0,
+  "target": 33,
+  "type": "Shareholder",
+  "value": 39.1
+}, {
+  "source": 10,
+  "target": 37,
+  "type": "Shareholder",
+  "value": 6.6
+}, {
+  "source": 16,
+  "target": 28,
+  "type": "Shareholder",
+  "value": 22.1
+}, {
+  "source": 14,
+  "target": 39,
+  "type": "Shareholder",
+  "value": 28.3
+}
+]
+}
