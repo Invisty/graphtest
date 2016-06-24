@@ -7,7 +7,7 @@
 			"url": "http://www.companies.govt.nz/co/3933219",
 			"status": "Registered",
 			"type": "Company",
-			"selected" : true
+			"fixed" : true
 		},
 		{
 			"name": "ANATORI LIMITED",
