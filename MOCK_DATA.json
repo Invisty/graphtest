@@ -1,406 +1,480 @@
 {
 "nodes": 
-	[{
-  "name": "Shuffletag",
-  "bsn": 563371,
-  "status": "Unregistered",
-  "type": "Company"
-}, {
-  "name": "Gigazoom",
-  "bsn": 637913,
+[
+{
+  "name": "CONNECTWORKS LIMITED",
+  "id": 3933219,
+  "bsn": 9429030572874,
+  "url": "http://www.companies.govt.nz/co/3933219",
   "status": "Registered",
   "type": "Company"
-}, {
-  "name": "Gabtune",
-  "bsn": 729475,
+},
+{
+  "name": "ANATORI LIMITED",
+  "bsn": 9429035536581,
+  "url": "http://www.companies.govt.nz/co/1483485",
   "status": "Registered",
+  "address" : "2 Augustus Terrace, Parnell, Auckland, 1052 , New Zealand",
   "type": "Company"
-}, {
-  "name": "Devbug",
-  "bsn": 628672,
-  "status": "Bankrupt",
-  "type": "Company"
-}, {
-  "name": "Thoughtstorm",
-  "bsn": 149293,
-  "status": "Unregistered",
-  "type": "Company"
-}, {
-  "name": "Skinix",
-  "bsn": 233139,
+},
+{
+  "name": "GALLARUS HOLDINGS LIMITED",
+  "bsn": 9429039276186,
+  "url": "http://www.companies.govt.nz/co/450024",
   "status": "Registered",
+  "address" : "326 Tucker Beach Road, Rd 1, Queenstown, 9371 , New Zealand",
   "type": "Company"
-}, {
-  "name": "Feedfire",
-  "bsn": 458886,
-  "status": "Bankrupt",
+},
+{
+  "name": "LEWISLEGAL TRUSTEES 2015 LIMITED",
+  "bsn": 9429041574805,
+  "url": "http://www.companies.govt.nz/co/5566505",
+  "status": "",
+  "address": "Lewis', Cnr Dick & Alpha Streets, Cambridge, 3434 , New Zealand",
   "type": "Company"
-}, {
-  "name": "Ntag",
-  "bsn": 338062,
-  "status": "Bankrupt",
-  "type": "Company"
-}, {
-  "name": "Pixonyx",
-  "bsn": 139610,
-  "status": "Registered",
-  "type": "Company"
-}, {
-  "name": "Lazz",
-  "bsn": 233967,
-  "status": "Unregistered",
-  "type": "Company"
-}, {
-  "name": "BlogXS",
-  "bsn": 759389,
-  "status": "Bankrupt",
-  "type": "Company"
-}, {
-  "name": "Zoonder",
-  "bsn": 888693,
-  "status": "Bankrupt",
-  "type": "Company"
-}, {
-  "name": "Miboo",
-  "bsn": 993267,
-  "status": "Unregistered",
-  "type": "Company"
-}, {
-  "name": "Divavu",
-  "bsn": 886935,
-  "status": "Bankrupt",
-  "type": "Company"
-}, {
-  "name": "Divape",
-  "bsn": 729110,
-  "status": "Bankrupt",
-  "type": "Company"
-}, {
-  "name": "Linktype",
-  "bsn": 243957,
-  "status": "Unregistered",
-  "type": "Company"
-}, {
-  "name": "Zava",
-  "bsn": 932597,
-  "status": "Registered",
-  "type": "Company"
-}, {
-  "name": "Eazzy",
-  "bsn": 184901,
-  "status": "Unregistered",
-  "type": "Company"
-}, {
-  "name": "Vimbo",
-  "bsn": 576409,
-  "status": "Registered",
-  "type": "Company"
-}, {
-  "name": "Rhycero",
-  "bsn": 894382,
-  "status": "Bankrupt",
-  "type": "Company"
-}, {
-  "name": "N Brooks",
-  "address": "6 Lakeland Hill",
-  "appointed": "11/12/2012",
+},
+{
+  "name": "Jeremy BUCKLEY",
+  "address": "28 Mahina Road, Mahina Bay, Lower Hutt, 5013 , New Zealand",
   "type": "Person"
-}, {
-  "name": "S Morrison",
-  "address": "7 Atwood Parkway",
-  "appointed": "7/22/2011",
+},
+{
+  "name": "Hamish Craig EDWARDS",
+  "address": "49 East Street, Greytown, Greytown, 5712 , New Zealand",
   "type": "Person"
-}, {
-  "name": "D Burton",
-  "address": "97 Macpherson Road",
-  "appointed": "3/4/2016",
+},
+{
+  "name": "Andrew Paul FINCH",
+  "address": "65 Taylor Pass Road, Witherlea, Blenheim, 7201 , New Zealand",
   "type": "Person"
-}, {
-  "name": "G Gordon",
-  "address": "8 Carpenter Pass",
-  "appointed": "4/21/2014",
+},
+{
+  "name": "Nigel John KEATS",
+  "address": "42 Wright Street, Mount Cook, Wellington, 6021 , New Zealand",
   "type": "Person"
-}, {
-  "name": "R Kim",
-  "address": "55 Coleman Place",
-  "appointed": "12/23/2012",
+},
+{
+  "name": "Christina BUCKLEY",
+  "address": "28 Mahina Road, Mahina Bay, Lower Hutt, 5013 , New Zealand",
   "type": "Person"
-}, {
-  "name": "J Peterson",
-  "address": "4 Prairie Rose Crossing",
-  "appointed": "8/16/2011",
+},
+{
+  "name": "Alana SAGAR",
+  "address": "65 Taylor Pass Road, Witherlea, Blenheim, 7201 , New Zealand",
   "type": "Person"
-}, {
-  "name": "F Mills",
-  "address": "3 Pankratz Point",
-  "appointed": "11/29/2015",
+},
+{
+  "name": "Tineke Jane EDWARDS",
+  "address": "12 Westwood Avenue, Greytown, Greytown, 5712 , New Zealand",
   "type": "Person"
-}, {
-  "name": "L Green",
-  "address": "20452 Merry Way",
-  "appointed": "9/21/2013",
+},
+{
+  "name": "Daren RILEY",
+  "address": "25 Kano Street, Karori, Wellington, 6012 , New Zealand",
   "type": "Person"
-}, {
-  "name": "G Howell",
-  "address": "687 Badeau Center",
-  "appointed": "10/11/2015",
+},
+{
+  "name": "Benjamin NORTHROP",
+  "address": "Level 2 Hope Gibbons Building, 11 Dixon Street, Wellington, 6011 , New Zealand",
   "type": "Person"
-}, {
-  "name": "S Bryant",
-  "address": "03 Pankratz Pass",
-  "appointed": "10/29/2014",
+},
+{
+  "name": "Keats SUSAN",
+  "address": "62 Evans Bay Parade, Roseneath, Wellington, 6021 , New Zealand",
   "type": "Person"
-}, {
-  "name": "D Hall",
-  "address": "9 Emmet Point",
-  "appointed": "6/14/2015",
+},
+{
+  "name": "Gary HURRING",
+  "address": "62 Evans Bay Parade, Roseneath, Wellington, 6021 , New Zealand",
   "type": "Person"
-}, {
-  "name": "C Shaw",
-  "address": "0 Buell Center",
-  "appointed": "10/13/2014",
+},
+{
+  "name": "Stephen A'COURT",
+  "address": "Flat 603, 2 Tapora Street, Auckland Central, Auckland, 1010 , New Zealand",
   "type": "Person"
-}, {
-  "name": "D Reed",
-  "address": "28 Continental Drive",
-  "appointed": "7/31/2015",
+},
+{
+  "name": "Lewis BENTLEY",
+  "address": "49 Hanlon Crescent, Narrow Neck, Auckland, 0624 , New Zealand",
   "type": "Person"
-}, {
-  "name": "J Ward",
-  "address": "2 Kings Parkway",
-  "appointed": "10/18/2015",
+},
+{
+  "name": "Adrian FOOK",
+  "address": "10 Tio Tio Road, Miramar, Wellington, 6022 , New Zealand",
+  "appointed": "",
   "type": "Person"
-}, {
-  "name": "R Armstrong",
-  "address": "368 Declaration Hill",
-  "appointed": "8/17/2011",
+},
+{
+  "name": "Celine FOOK",
+  "address": "10 Tio Tio Road, Miramar, Wellington, 6022 , New Zealand",
+  "appointed": "",
   "type": "Person"
-}, {
-  "name": "J Ryan",
-  "address": "2 Hintze Park",
-  "appointed": "5/13/2013",
+},
+{
+  "name": "Cameron HESSELL",
+  "address": "6/4 Hawker Street, Wellington, 6011 , New Zealand",
   "type": "Person"
-}, {
-  "name": "M Dean",
-  "address": "687 Washington Place",
-  "appointed": "12/20/2015",
+},
+{
+  "name": "Rosemary Holly GRIFFIN",
+  "address": "6/4 Hawker Street, Wellington, 6011 , New Zealand",
   "type": "Person"
-}, {
-  "name": "E Morris",
-  "address": "3129 Helena Avenue",
-  "appointed": "10/6/2015",
+},
+{
+  "name": "Andrew Hamilton ABERNETHY",
+  "address": "2 Augustus Terrace, Parnell, Auckland, 1052 , New Zealand",
   "type": "Person"
-}, {
-  "name": "J Sims",
-  "address": "6193 Nevada Pass",
-  "appointed": "7/7/2013",
+},
+{
+  "name": "Matthew Simon MAKGILL",
+  "address": "40 Cowley Drive, Leamington, Cambridge, 3432 , New Zealand",
   "type": "Person"
-}, {
-  "name": "E Jordan",
-  "address": "969 Kenwood Place",
-  "appointed": "2/22/2012",
+},
+{
+  "name": "Simon Redding MAKGILL",
+  "address": "332 Lamb Street, Rd 3, Cambridge, 3495 , New Zealand",
   "type": "Person"
-}],
-"links": [{
-  "source": 3,
-  "target": 29,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 17,
-  "target": 26,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 9,
-  "target": 31,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 10,
-  "target": 26,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 4,
-  "target": 30,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 5,
-  "target": 20,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 19,
+},
+{
+  "name": "Lisa Julie WARE",
+  "address": "66 Pukemoremore Road, Rd 1, Cambridge, 3493 , New Zealand",
+  "type": "Person"
+},
+{
+  "shares": 365400,
+  "type": "Allocation"
+},
+{
+  "shares": 230580,
+  "type": "Allocation"
+},
+{
+  "shares": 144138,
+  "type": "Allocation"
+},
+{
+  "shares": 102600,
+  "type": "Allocation"
+},
+{
+  "shares": 94613,
+  "type": "Allocation"
+},
+{
+  "shares": 12876,
+  "type": "Allocation"
+},
+{
+  "shares": 12876,
+  "type": "Allocation"
+},
+{
+  "shares": 10730,
+  "type": "Allocation"
+},
+{
+  "shares": 6539,
+  "type": "Allocation"
+},
+{
+  "shares": 5617,
+  "type": "Allocation"
+},
+{
+  "shares": 5617,
+  "type": "Allocation"
+}.
+{
+  "shares": 4399,
+  "type": "Allocation"
+},
+{
+  "shares": 3370,
+  "type": "Allocation"
+},
+{
+  "shares": 1685,
+  "type": "Allocation"
+},
+{
+  "name": "Joan Mary BAKER",
+  "address": "326 Tucker Beach Road, Queenstown, Auckland, 9371 , New Zealand",
+  "type": "Person"
+},
+{
+  "name": "Martin HAWES",
+  "address": "326 Tucker Beach Road, Rd 1, Queenstown, 9371 , New Zealand",
+  "type": "Person"
+},
+{
+  "shares": 5000,
+  "type": "Allocation"
+},
+{
+  "shares": 5000,
+  "type": "Allocation"
+},
+{
+  "shares": 100,
+  "type": "Allocation"
+},
+{
+  "shares": 500,
+  "type": "Allocation"
+},
+{
+  "shares": 500,
+  "type": "Allocation"
+},
+{
+  "shares": 500,
+  "type": "Allocation"
+}
+],
+"links": [
+{
+  "source": 0,
   "target": 25,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 7,
-  "target": 34,
-  "type": "Director",
-  "value": 1
-}, {
+  "type": "Shares",
+},{
   "source": 0,
-  "target": 39,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 1,
-  "target": 34,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 10,
-  "target": 21,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 19,
-  "target": 32,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 5,
-  "target": 36,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 16,
-  "target": 31,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 3,
-  "target": 32,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 15,
-  "target": 29,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 15,
-  "target": 28,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 7,
-  "target": 34,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 18,
-  "target": 23,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 16,
-  "target": 37,
-  "type": "Director",
-  "value": 1
-}, {
-  "source": 5,
-  "target": 33,
-  "type": "Shareholder",
-  "value": 30.9
-}, {
-  "source": 14,
-  "target": 37,
-  "type": "Shareholder",
-  "value": 38.2
-}, {
-  "source": 19,
-  "target": 27,
-  "type": "Shareholder",
-  "value": 14.5
-}, {
-  "source": 10,
-  "target": 24,
-  "type": "Shareholder",
-  "value": 33.2
-}, {
-  "source": 0,
-  "target": 27,
-  "type": "Shareholder",
-  "value": 27.2
-}, {
-  "source": 6,
   "target": 26,
-  "type": "Shareholder",
-  "value": 9.6
-}, {
-  "source": 9,
-  "target": 27,
-  "type": "Shareholder",
-  "value": 15.6
-}, {
-  "source": 17,
-  "target": 36,
-  "type": "Shareholder",
-  "value": 48.8
-}, {
-  "source": 19,
-  "target": 21,
-  "type": "Shareholder",
-  "value": 42.9
-}, {
-  "source": 11,
-  "target": 28,
-  "type": "Shareholder",
-  "value": 48.6
-}, {
-  "source": 2,
-  "target": 24,
-  "type": "Shareholder",
-  "value": 37.0
-}, {
-  "source": 3,
-  "target": 22,
-  "type": "Shareholder",
-  "value": 43.4
-}, {
-  "source": 9,
-  "target": 32,
-  "type": "Shareholder",
-  "value": 31.8
-}, {
+  "type": "Shares",
+},{
   "source": 0,
-  "target": 34,
-  "type": "Shareholder",
-  "value": 48.7
-}, {
-  "source": 14,
+  "target": 27,
+  "type": "Shares",
+},{
+  "source": 0,
   "target": 28,
-  "type": "Shareholder",
-  "value": 34.0
-}, {
-  "source": 16,
-  "target": 23,
-  "type": "Shareholder",
-  "value": 17.8
-}, {
+  "type": "Shares",
+},{
+  "source": 0,
+  "target": 29,
+  "type": "Shares",
+},{
+  "source": 0,
+  "target": 30,
+  "type": "Shares",
+},{
+  "source": 0,
+  "target": 31,
+  "type": "Shares",
+},{
+  "source": 0,
+  "target": 32,
+  "type": "Shares",
+},{
   "source": 0,
   "target": 33,
-  "type": "Shareholder",
-  "value": 39.1
-}, {
-  "source": 10,
+  "type": "Shares",
+},{
+  "source": 0,
+  "target": 34,
+  "type": "Shares",
+},{
+  "source": 0,
+  "target": 35,
+  "type": "Shares",
+},{
+  "source": 0,
+  "target": 36,
+  "type": "Shares",
+},{
+  "source": 0,
   "target": 37,
+  "type": "Shares",
+},{
+  "source": 0,
+  "target": 38,
+  "type": "Shares",
+},{
+  "source": 41,
+  "target": 2,
+  "type": "Shares",
+},{
+  "source": 42,
+  "target": 2,
+  "type": "Shares",
+},{
+  "source": 43,
+  "target": 1,
+  "type": "Shares",
+},{
+  "source": 44,
+  "target": 3,
+  "type": "Shares",
+},{
+  "source": 45,
+  "target": 3,
+  "type": "Shares",
+},{
+  "source": 46,
+  "target": 3,
+  "type": "Shares",
+},{
+  "source": 25,
+  "target": 4,
   "type": "Shareholder",
-  "value": 6.6
-}, {
-  "source": 16,
-  "target": 28,
+},{
+  "source": 25,
+  "target": 8,
   "type": "Shareholder",
-  "value": 22.1
-}, {
-  "source": 14,
-  "target": 39,
+},{
+  "source": 26,
+  "target": 7,
   "type": "Shareholder",
-  "value": 28.3
+},{
+  "source": 27,
+  "target": 6,
+  "type": "Shareholder",
+},{
+  "source": 27,
+  "target": 9,
+  "type": "Shareholder",
+},{
+  "source": 28,
+  "target": 6,
+  "type": "Shareholder",
+},{
+  "source": 29,
+  "target": 5,
+  "type": "Shareholder",
+},{
+  "source": 29,
+  "target": 10,
+  "type": "Shareholder",
+},{
+  "source": 29,
+  "target": 6,
+  "type": "Shareholder",
+},{
+  "source": 30,
+  "target": 2,
+  "type": "Shareholder",
+},{
+  "source": 31,
+  "target": 11,
+  "type": "Shareholder",
+},{
+  "source": 32,
+  "target": 12,
+  "type": "Shareholder",
+},{
+  "source": 32,
+  "target": 4,
+  "type": "Shareholder",
+},{
+  "source": 33,
+  "target": 13,
+  "type": "Shareholder",
+},{
+  "source": 33,
+  "target": 14,
+  "type": "Shareholder",
+},{
+  "source": 34,
+  "target": 15,
+  "type": "Shareholder",
+},{
+  "source": 35,
+  "target": 1,
+  "type": "Shareholder",
+},{
+  "source": 36,
+  "target": 16,
+  "type": "Shareholder",
+},{
+  "source": 36,
+  "target": 3,
+  "type": "Shareholder",
+},{
+  "source": 37,
+  "target": 17,
+  "type": "Shareholder",
+},{
+  "source": 37,
+  "target": 18,
+  "type": "Shareholder",
+},{
+  "source": 38,
+  "target": 19,
+  "type": "Shareholder",
+},{
+  "source": 38,
+  "target": 20,
+  "type": "Shareholder",
+},
+{
+  "source": 39,
+  "target": 41,
+  "type": "Shareholder",
+},{
+  "source": 40,
+  "target": 42,
+  "type": "Shareholder",
+},{
+  "source": 22,
+  "target": 44,
+  "type": "Shareholder",
+},{
+  "source": 23,
+  "target": 45,
+  "type": "Shareholder",
+},{
+  "source": 24,
+  "target": 46,
+  "type": "Shareholder",
+},
+{
+  "source": 4,
+  "target": 0,
+  "type": "Director",
+},
+{
+  "source": 5,
+  "target": 0,
+  "type": "Director",
+},
+{
+  "source": 6,
+  "target": 0,
+  "type": "Director",
+},
+{
+  "source": 7,
+  "target": 0,
+  "type": "Director",
+},
+{
+  "source": 39,
+  "target": 2,
+  "type": "Director",
+},
+{
+  "source": 40,
+  "target": 2,
+  "type": "Director",
+},
+{
+  "source": 21,
+  "target": 1,
+  "type": "Director",
+},
+{
+  "source": 22,
+  "target": 3,
+  "type": "Director",
+},
+{
+  "source": 23,
+  "target": 3,
+  "type": "Director",
+},
+{
+  "source": 24,
+  "target": 3,
+  "type": "Director",
 }
 ]
 }
