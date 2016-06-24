@@ -6,7 +6,8 @@
 			"bsn": 9429030572874,
 			"url": "http://www.companies.govt.nz/co/3933219",
 			"status": "Registered",
-			"type": "Company"
+			"type": "Company",
+			"selected" : true
 		},
 		{
 			"name": "ANATORI LIMITED",
